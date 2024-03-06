@@ -5,6 +5,10 @@ Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
 ``` bash
+
+Until now, i only used the BoxGeometry class to create a cube.
+
+
 # Install dependencies (only the first time)
 npm install
 
